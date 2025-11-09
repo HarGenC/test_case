@@ -22,5 +22,10 @@ DB_PORT - порт БД
 DB_NAME - название БД
 DB_USER - имя пользователя
 DB_PASS - пароль
-DB_TEST - тестовая БД
+
+DB_HOST_TEST - адрес тестовой БД
+DB_PORT_TEST - порт тестовой БД
+DB_NAME_TEST - название тестовой БД
+DB_USER_TEST - имя тестового пользователя
+DB_PASS_TEST - пароль
 
